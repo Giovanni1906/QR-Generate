@@ -1,6 +1,6 @@
 # QR-Generate
 
-Este proyecto, desarrollado por **Giovanni1906**, permite generar códigos QR de manera sencilla utilizando Python. Es una herramienta útil para crear códigos QR personalizados para enlaces, textos y más.
+Este proyecto, desarrollado por **Jorge Jefferson Velásquez Valdivia**, permite generar códigos QR de manera sencilla utilizando Python. Es una herramienta útil para crear códigos QR personalizados para enlaces, textos y más.
 
 ## Características
 
